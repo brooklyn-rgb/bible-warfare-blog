@@ -16,6 +16,9 @@ export default function RootLayout({ children }) {
       <Link href={'/'}>
         <h1>The Biblical Warfare</h1>
       </Link>
+    <Link href={'https://bornagainmission.com/'}>
+    <h2>Bornagainmission pg</h2>
+    </Link>
     </header>
   )
 
